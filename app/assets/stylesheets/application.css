@@ -12,6 +12,7 @@
  *
  * Bower
  *= require bootstrap-sass
+ *= require grayscale-sass/styles/main
  *= require_tree .
  *= require_self
  */

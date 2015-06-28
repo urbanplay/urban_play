@@ -14,6 +14,8 @@
 //= require jquery_ujs
 //
 // Bower packages
-//= require bootstrap-sass
+//= require bootstrap-sass/assets/javascripts/bootstrap
+//= require jquery.easing/js/jquery.easing
+//= require grayscale-sass/assets/js/grayscale
 //
 //= require_tree .
