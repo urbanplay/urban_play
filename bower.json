@@ -1,0 +1,9 @@
+{
+  "name": "UrbanPlay",
+  "version": "0.1.0",
+  "main": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "4.3.5"
+  }
+}

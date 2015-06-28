@@ -12,4 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//
+// Bower packages
+//= require bootstrap-sass
+//
 //= require_tree .
